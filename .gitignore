@@ -1,0 +1,86 @@
+### Java ###
+# 编译输出
+**/target/
+*.class
+
+# 日志文件
+*.log
+logs/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+### 前端项目 ###
+# 依赖
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# 打包输出
+**/dist/
+**/dist-ssr
+**/build/
+
+# 本地环境文件
+**/.env.local
+**/.env.*.local
+**/.env
+**/.env.development
+**/.env.production
+
+# 缓存文件
+.npm
+.yarn
+**/.cache
+**/.temp
+
+### Nginx ###
+**/nginx/logs/
+**/nginx/*.log
+**/nginx/conf.d/*.conf.bak
+
+### 系统文件 ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### 测试文件 ###
+**/test/
+*Test.java
+**/coverage/
+
+### 其他 ###
+# 临时文件
+*.swp
+*.swo
+*~
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+application-*.yml
+application-*.properties
+!application.yml
+!application.properties
