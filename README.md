@@ -4,21 +4,21 @@
 
 技术栈: `SpringBoot` `MyBatis` `Redis` `MySQL` `Nginx` `SpringCache` `SpringTask` `WebSocket` `Vue` `Maven` `Uni-app`
 
-![](./assets/01.png)
+![avator](./assets/01.png)
 
-![](./assets/02.png)
+![avator](./assets/02.png)
 
-![](./assets/03.png)
+![avator](./assets/03.png)
 
-![](./assets/04.png)
+![avator](./assets/04.png)
 
-![](./assets/05.png)
+![avator](./assets/05.png)
 
-![](./assets/06.png)
+![avator](./assets/06.png)
 
-![](./assets/07.png)
+![avator](./assets/07.png)
 
-![](./assets/08.png)
+![avator](./assets/08.png)
 
 ### 后端部署
 
