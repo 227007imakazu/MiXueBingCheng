@@ -4,6 +4,22 @@
 
 技术栈: `SpringBoot` `MyBatis` `Redis` `MySQL` `Nginx` `SpringCache` `SpringTask` `WebSocket` `Vue` `Maven` `Uni-app`
 
+![](./assets/01.png)
+
+![](./assets/02.png)
+
+![](./assets/03.png)
+
+![](./assets/04.png)
+
+![](./assets/05.png)
+
+![](./assets/06.png)
+
+![](./assets/07.png)
+
+![](./assets/08.png)
+
 ### 后端部署
 
 1.运行`sky.sql`脚本
