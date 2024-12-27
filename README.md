@@ -4,6 +4,8 @@
 
 技术栈: `SpringBoot` `MyBatis` `Redis` `MySQL` `Nginx` `SpringCache` `SpringTask` `WebSocket` `Vue` `Maven` `Uni-app`
 
+![avator](./assets/00.png)
+
 ![avator](./assets/01.png)
 
 ![avator](./assets/02.png)
